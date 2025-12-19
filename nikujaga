@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>おふくろの味を再現！美味しい肉じゃが | レシピデモ</title>
+    <style>
+        body { font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif; line-height: 1.6; color: #333; max-width: 600px; margin: 0 auto; padding: 20px; background-color: #f9f9f7; }
+        .recipe-card { background: #fff; padding: 30px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.05); }
+        h1 { color: #e67e22; font-size: 24px; border-bottom: 2px solid #f1c40f; padding-bottom: 10px; }
+        .description { color: #666; font-size: 14px; margin-bottom: 20px; }
+        h2 { font-size: 18px; background: #fef5e7; padding: 8px 12px; border-left: 4px solid #e67e22; margin-top: 30px; }
+        ul, ol { padding-left: 20px; }
+        li { margin-bottom: 8px; }
+        .ingredient-list { display: flex; justify-content: space-between; border-bottom: 1px dashed #ccc; padding: 4px 0; }
+        .amount { font-weight: bold; }
+        .footer { text-align: center; margin-top: 40px; font-size: 12px; color: #999; }
+    </style>
+</head>
+<body>
+
+<div class="recipe-card">
+    <h1>おふくろの味を再現！美味しい肉じゃが</h1>
+    <p class="description">ホクホクのじゃがいもと、味が染みた牛肉が絶品。基本を抑えた間違いのないレシピです。</p>
+
+    <h2>材料 (2人分)</h2>
+    <div class="ingredient-list"><span>牛細切れ肉</span><span class="amount">150g</span></div>
+    <div class="ingredient-list"><span>じゃがいも</span><span class="amount">3個</span></div>
+    <div class="ingredient-list"><span>玉ねぎ</span><span class="amount">1個</span></div>
+    <div class="ingredient-list"><span>にんじん</span><span class="amount">1/2本</span></div>
+    <div class="ingredient-list"><span>しらたき</span><span class="amount">100g</span></div>
+    <div class="ingredient-list"><span>醤油</span><span class="amount">大さじ3</span></div>
+    <div class="ingredient-list"><span>みりん</span><span class="amount">大さじ2</span></div>
+    <div class="ingredient-list"><span>砂糖</span><span class="amount">大さじ2</span></div>
+    <div class="ingredient-list"><span>だし汁</span><span class="amount">400ml</span></div>
+
+    <h2>作り方</h2>
+    <ol>
+        <li>じゃがいも、にんじん、玉ねぎを食べやすい大きさに切ります。</li>
+        <li>鍋に油を熱し、牛肉を炒めます。色が変わったら野菜を加えてさらに炒めます。</li>
+        <li>だし汁と調味料を加え、落とし蓋をして弱火で15分ほど煮込みます。</li>
+        <li>じゃがいもが柔らかくなったら火を止め、一度冷まして味を染み込ませれば完成です。</li>
+    </ol>
+</div>
+
+<div class="footer">
+    &copy; 2024 レシぱ動画作成用デモページ
+</div>
+
+</body>
+</html>
